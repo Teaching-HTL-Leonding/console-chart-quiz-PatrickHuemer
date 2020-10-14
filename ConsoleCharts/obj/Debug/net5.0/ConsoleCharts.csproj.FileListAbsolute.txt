@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\net5.0\ConsoleCharts.exe
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\net5.0\ConsoleCharts.deps.json
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\net5.0\ConsoleCharts.runtimeconfig.json
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\net5.0\ConsoleCharts.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\net5.0\ConsoleCharts.dll
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\net5.0\ref\ConsoleCharts.dll
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\net5.0\ConsoleCharts.pdb
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\net5.0\ConsoleCharts.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\net5.0\ConsoleCharts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\net5.0\ConsoleCharts.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\net5.0\ConsoleCharts.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\net5.0\ConsoleCharts.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\net5.0\ConsoleCharts.dll
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\net5.0\ref\ConsoleCharts.dll
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\net5.0\ConsoleCharts.pdb
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\net5.0\ConsoleCharts.genruntimeconfig.cache

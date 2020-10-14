@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\netcoreapp3.1\ConsoleCharts.exe
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\netcoreapp3.1\ConsoleCharts.deps.json
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\netcoreapp3.1\ConsoleCharts.runtimeconfig.json
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\netcoreapp3.1\ConsoleCharts.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\netcoreapp3.1\ConsoleCharts.dll
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\bin\Debug\netcoreapp3.1\ConsoleCharts.pdb
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\netcoreapp3.1\ConsoleCharts.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\netcoreapp3.1\ConsoleCharts.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\netcoreapp3.1\ConsoleCharts.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\netcoreapp3.1\ConsoleCharts.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\netcoreapp3.1\ConsoleCharts.dll
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\netcoreapp3.1\ConsoleCharts.pdb
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\console-chart-quiz-PatrickHuemer\ConsoleCharts\obj\Debug\netcoreapp3.1\ConsoleCharts.genruntimeconfig.cache
